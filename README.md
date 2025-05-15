@@ -1,6 +1,6 @@
-# Remzzi - Seri İlanlar Web Uygulaması
+# Remzzi -  İlanlar Web Uygulaması
 
-**Remzzi**, seri ilanların yayınlanmasını ve aranmasını kolaylaştırmak için tasarlanmış bir web uygulamasıdır. İster alım, ister satım veya kiralama yapmak isteyin, Remzzi alıcıları ve satıcıları buluşturmak için kullanıcı dostu bir platform sunar.
+**Remzzi**,  ilanların yayınlanmasını ve aranmasını kolaylaştırmak için tasarlanmış bir web uygulamasıdır. İster alım, ister satım veya kiralama yapmak isteyin, Remzzi alıcıları ve satıcıları buluşturmak için kullanıcı dostu bir platform sunar.
 
 ## Özellikler
 
